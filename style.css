@@ -79,3 +79,9 @@ body{
     font-size: 25px;
     margin-bottom: 10px;
 }
+
+.quiet{
+    width: 350x;
+    height: 350px;
+    margin-top: -900px;
+}
